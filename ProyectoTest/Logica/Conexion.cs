@@ -7,7 +7,7 @@ namespace ProyectoTest.Logica
 {
     public class Conexion
     {
-        public static string CN = "Data Source = DESKTOP-C6I3D6D\\SQLEXPRESS; Initial Catalog = DB_CARRITO; Integrated Security = True";
+        public static string CN = "Data Source = DESARROLLO_03\\SQLEXPRESS; Initial Catalog = DB_CARRITO; Integrated Security = True";
 
     }
 }
